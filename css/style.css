@@ -16,3 +16,6 @@ header{
 #navlist li{
     background-color:powderblue;
 }
+#navlist{
+    position:fixed;
+}
