@@ -7,7 +7,7 @@ header{
 #navlist li {
     display: inline-block;
     text-align:center;
-    width: 33%;
+    width: 25%;
     font-size:17px;
     border: 1px solid black;
     box-sizing: border-box;
