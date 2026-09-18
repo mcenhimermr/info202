@@ -1,0 +1,19 @@
+body{
+    background-color:lavender;
+}
+header{
+    text-align: center;
+}
+#navlist li {
+    display: inline-block;
+    text-align:center;
+    width: 33%;
+    font-size:17px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:lavender;
+}
+#navlist, #navlist li{
+    background-color:powderblue;
+}
