@@ -7,15 +7,16 @@ header{
 #navlist li {
     display: inline-block;
     text-align:center;
-    width: 24%;
+    width: 33%;
     font-size:17px;
     border: 1px solid black;
     box-sizing: border-box;
     padding: 10px;
+    background-color:lavender;
 }
-#navlist li{
+#navlist, #navlist li{
     background-color:powderblue;
 }
 #navlist{
-    position:fixed;
+    position: fixed;
 }
