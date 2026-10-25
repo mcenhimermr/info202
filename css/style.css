@@ -32,3 +32,6 @@ header{
     width: 100%;
     list-style-type: none;
 }
+h1{
+    justify-content: center;
+}
